@@ -1,0 +1,7 @@
+appName: explorecalifornia-com-website
+webName: explorercalifornia.com
+imageName: localhost:5000/explorecalifornia.com
+serviceName: explorecalifornia-svc
+serviceAddress: explorecalifornia.com
+sourcePort: 80
+replicas: 1
